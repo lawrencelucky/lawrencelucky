@@ -1,7 +1,5 @@
 ### Hi there, I am Lawrence Lucky
 
----
-
 A Software Engineer specialized in JavaScript Technologies.
 
 Professional experience with the technologies listed in the toolbox below.
