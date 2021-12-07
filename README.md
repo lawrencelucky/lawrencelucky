@@ -1,3 +1,1 @@
-### Hi there 👋, I am Lucky Lawrence
-
----
+### Hi there 👋, I am Lawrence Lucky
