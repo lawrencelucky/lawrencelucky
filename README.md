@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Lucky Lawrence
 
-Reach me at
+---
 
-![Twitter URL](https://img.shields.io/twitter/url?label=%40lawrencelucky&style=social&url=https%3A%2F%2Ftwitter.com%2F_lawrencelucky)
+![Twitter URL](https://img.shields.io/twitter/url?label=%40lawrencelucky&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F_lawrencelucky)
 
 <!--
 **lawrencelucky/lawrencelucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
